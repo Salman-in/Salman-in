@@ -40,7 +40,7 @@
 
 <h2 align="center">🎖️ My Holopin Badges</h2>
 <p align="center">
-  <img src="https://holopin.me/salmanin" width="500"/>
+  [![An image of @salmanin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salmanin)](https://holopin.io/@salmanin)
 </p>
 
 ---
