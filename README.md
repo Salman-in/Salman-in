@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Web Developer | Software Engineer</b>
+  <b>Web Enthusiast</b>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 <h2 align="center">💡 A Bit About Me</h2>
 
-- 💻 **Currently working** on building full-stack applications using the **MERN stack**.
+- 💻 **Currently working** on building full-stack applications using the **MERN stack** and also learning DSA.
 - 🎯 **Always learning** and expanding my skills with new tools and technologies.
 - 🧑‍🏫 **Mentor and collaborator**, passionate about teaching others and working on team projects.
 - 💼 **Seeking opportunities** to make a real impact through coding.
@@ -43,19 +43,5 @@
   <img src="https://holopin.me/salmanin" width="500"/>
 </p>
 
----
-
-<h2 align="center">🌟 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:salmannajah123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Salman-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/salman-najah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Salman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Salman">
-    <img src="https://img.shields.io/badge/GitHub-Salman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 
