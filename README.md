@@ -1,1 +1,1 @@
-I've changed my username recently to @SalmanNajah
+I've changed my username to @SalmanNajah
